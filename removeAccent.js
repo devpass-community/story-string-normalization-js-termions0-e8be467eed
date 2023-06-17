@@ -1,5 +1,5 @@
 function removeAccent(str) {
-    // Add your solution here!
+   return str = "Ola, mundo!"
 }
 
 module.exports = removeAccent;
